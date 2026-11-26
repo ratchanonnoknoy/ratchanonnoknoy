@@ -4,4 +4,4 @@ The meeting focused on the **5-year Local Health Development Plan (2028–2032)*
 
 #### 📸 Meeting Highlights
 
-![Local Health Development Meeting](https://kpppao.go.th/public/list_upload/backend/list_11051/pics_23181_1_full.jpg?960)
+![Local Health Development Meeting](https://res.cloudinary.com/dpa96jvla/image/upload/v1795675153/pics_23181_1_full_nvglvm.jpg)
